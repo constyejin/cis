@@ -1954,7 +1954,7 @@ source[src="data:,"] {
 
   ._title_1mqbu_43 {
     color: #fff;
-    height: 66px;
+    height: 88px;
     margin-bottom: 32px;
     max-width: 340px
   }
@@ -3138,7 +3138,7 @@ source[src="data:,"] {
     display: flex;
     border: 2px solid red;
   }
-  
+
   ._body_1brv7_31 {
     margin-bottom: 12px
   }
@@ -4694,4 +4694,9 @@ source[src="data:,"] {
 
   .inline-block[data-v-5784ed69] {
     display: inline-block
+  }
+
+
+  .chart-svg {
+    max-width: 440px;
   }
