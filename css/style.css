@@ -2693,20 +2693,20 @@ source[src="data:,"] {
 
   ._title_1a6mu_47 {
     color: #282828;
-    max-width: 227px;
+    max-width: 300px;
     position: relative;
     z-index: 5
   }
 
   @media screen and (min-width:640px) {
     ._title_1a6mu_47 {
-      max-width: 263px
+            max-width: 300px
     }
   }
 
   @media screen and (min-width:960px) {
     ._title_1a6mu_47 {
-      max-width: 227px
+      max-width: 300px
     }
   }
 
