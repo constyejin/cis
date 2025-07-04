@@ -4,6 +4,29 @@ source[src="data:,"] {
   display: none !important
 }
 
+.flex {
+  display: flex;
+}
+
+._root_jeb0o_1 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  width: 46px;
+  height: 46px;
+  background-color:rgba(255,255,255,.1);
+  border-radius: 10px;
+  cursor: pointer;
+}
+
+@media (min-width: 1280px) {
+  ._root_jeb0o_1 {
+    display: none;
+  }
+}
+
   @font-face {
     font-family: "Mulish";
     font-style: normal;
@@ -276,8 +299,6 @@ source[src="data:,"] {
   ._root_8daav_2 {
     display: contents;
     color: #fff;
-    font-size: 28px;
-    font-weight: 700;
   }
 
   .custom-notification-group[data-v-10731813] {
