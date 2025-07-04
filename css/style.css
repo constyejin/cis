@@ -1172,7 +1172,7 @@ source[src="data:,"] {
 
   ._title_q7g80_5 {
     color: #fff;
-    white-space: pre-line
+    /* white-space: pre-line */
   }
 
   ._titleDark_q7g80_10 {
@@ -1746,7 +1746,8 @@ source[src="data:,"] {
 
   ._button_1lcth_57 {
     margin-bottom: 16px;
-    white-space: nowrap
+    white-space: nowrap;
+    max-width: 480px
   }
 
   @media screen and (min-width:1280px) {
