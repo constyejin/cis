@@ -3134,6 +3134,11 @@ source[src="data:,"] {
     }
   }
 
+  ._root_1brv7_1 _indicators_b67ev_71 {
+    display: flex;
+    border: 2px solid red;
+  }
+  
   ._body_1brv7_31 {
     margin-bottom: 12px
   }
